@@ -6,7 +6,12 @@ function App() {
   return (
     <Layout>
       <Header />
-      
+      <main>
+        <p>new paragraph</p>
+        <div>
+          <span>main content</span>
+        </div>
+      </main>
       <Footer />
     </Layout>
   );
