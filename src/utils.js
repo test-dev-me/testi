@@ -1,4 +1,4 @@
 function validationEmail(email) {
-  const regex = /^[a-z][0-9]&/g;
+  const regex = /^\w+\d+&/g;
   return email.test(regex);
 }
