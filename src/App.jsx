@@ -7,10 +7,7 @@ function App() {
     <Layout>
       <Header />
       <main>
-        <p>new paragraph</p>
-        <div>
-          <span>main content</span>
-        </div>
+        main content
       </main>
       <Footer />
     </Layout>
