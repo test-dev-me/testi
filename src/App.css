@@ -9,19 +9,4 @@
     background-color: #eaeaea;
     font-size: 1.6rem;
   }
-
-  button {
-    cursor: pointer;
-  }
-}
-
-
-@layer component {
-  .active-btn {
-    @apply bg-green-900 text-white;
-  }
-
-  .desabled-btn {
-    @apply bg-red-800 text-black;
-  }
 }
