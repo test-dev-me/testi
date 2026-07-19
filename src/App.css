@@ -24,4 +24,8 @@
   .desabled-btn {
     @apply bg-red-800 text-black;
   }
+
+  .pending-btn {
+    @apply opacity-50 text-white;
+  }
 }
